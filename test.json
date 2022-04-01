@@ -1,10 +1,10 @@
 {
-   "Código":"7183",
-   "Producto":"ACEITERA METÁLICA 300cm3 (Pico flexible) WEMBLEY®",
-   "Categoría":"HERRAMIENTAS VARIAS",
-   "Cantidad":"1",
-   "Precio sin IVA":"$ 668,21",
-   "Origen":"IMP",
-   "IVA":"21,00%",
-   "Información":""
+   "codigo":"7183",
+   "producto":"ACEITERA METÁLICA 300cm3 (Pico flexible) WEMBLEY®",
+   "categoria":"HERRAMIENTAS VARIAS",
+   "cantidad":"1",
+   "siniva":"$ 668,21",
+   "origen":"IMP",
+   "iva":"21,00%",
+   "informacion":""
 }
