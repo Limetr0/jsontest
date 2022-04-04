@@ -1,5 +1,15 @@
 [
     {
+        "codigo": "123",
+        "producto": "probando",
+        "categoria": ":-)",
+        "cantidad": "-",
+        "siniva": "-",
+        "origen": "-",
+        "iva": "-",
+        "informacion": "-"
+    },
+    {
         "codigo": "7183",
         "producto": "ACEITERA METÁLICA 300cm3 (Pico flexible) WEMBLEY®",
         "categoria": "HERRAMIENTAS VARIAS",
